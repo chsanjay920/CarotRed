@@ -1,0 +1,12 @@
+D:\CaratRedFi800RProject\CaratRedFi-800R\CaratRedFi-800RLibrary\bin\Debug\CaratRedFi-800RLibrary.dll
+D:\CaratRedFi800RProject\CaratRedFi-800R\CaratRedFi-800RLibrary\bin\Debug\CaratRedFi-800RLibrary.pdb
+D:\CaratRedFi800RProject\CaratRedFi-800R\CaratRedFi-800RLibrary\bin\Debug\AxInterop.FiScnLib.dll
+D:\CaratRedFi800RProject\CaratRedFi-800R\CaratRedFi-800RLibrary\bin\Debug\Interop.FiScnLib.dll
+D:\CaratRedFi800RProject\CaratRedFi-800R\CaratRedFi-800RLibrary\bin\Debug\stdole.dll
+D:\CaratRedFi800RProject\CaratRedFi-800R\CaratRedFi-800RLibrary\obj\Debug\CaratRedFi-800RLibrary.csprojAssemblyReference.cache
+D:\CaratRedFi800RProject\CaratRedFi-800R\CaratRedFi-800RLibrary\obj\Debug\Interop.FiScnLib.dll
+D:\CaratRedFi800RProject\CaratRedFi-800R\CaratRedFi-800RLibrary\obj\Debug\CaratRedFi-800RLibrary.csproj.ResolveComReference.cache
+D:\CaratRedFi800RProject\CaratRedFi-800R\CaratRedFi-800RLibrary\obj\Debug\CaratRedFi-800RLibrary.csproj.CoreCompileInputs.cache
+D:\CaratRedFi800RProject\CaratRedFi-800R\CaratRedFi-800RLibrary\obj\Debug\CaratRedFi-800RLibrary.csproj.CopyComplete
+D:\CaratRedFi800RProject\CaratRedFi-800R\CaratRedFi-800RLibrary\obj\Debug\CaratRedFi-800RLibrary.dll
+D:\CaratRedFi800RProject\CaratRedFi-800R\CaratRedFi-800RLibrary\obj\Debug\CaratRedFi-800RLibrary.pdb

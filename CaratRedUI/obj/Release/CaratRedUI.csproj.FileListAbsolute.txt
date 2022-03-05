@@ -1,0 +1,17 @@
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\CaratRedUI.csprojAssemblyReference.cache
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\Interop.FiScnLib.dll
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\AxInterop.FiScnLib.dll
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\CaratRedUI.csproj.ResolveComReference.cache
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\CaratRedUI.ConfirmationSearchCTRL.resources
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\CaratRedUI.DashboardCTRL.resources
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\CaratRedUI.ForeginCTRL.resources
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\CaratRedUI.Form1.resources
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\CaratRedUI.Form2.resources
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\CaratRedUI.IndianPassportCTRL.resources
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\CaratRedUI.LocalID.resources
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\CaratRedUI.Properties.Resources.resources
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\CaratRedUI.SettingsForm.resources
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\CaratRedUI.GuestCard.resources
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\CaratRedUI.UserMain.resources
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\CaratRedUI.csproj.GenerateResource.cache
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedUI\obj\Release\CaratRedUI.csproj.CoreCompileInputs.cache

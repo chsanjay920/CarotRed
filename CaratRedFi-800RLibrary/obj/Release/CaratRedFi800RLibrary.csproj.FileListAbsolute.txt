@@ -1,0 +1,4 @@
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedFi-800RLibrary\obj\Release\CaratRedFi800RLibrary.csprojAssemblyReference.cache
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedFi-800RLibrary\obj\Release\Interop.FiScnLib.dll
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedFi-800RLibrary\obj\Release\CaratRedFi800RLibrary.csproj.ResolveComReference.cache
+D:\CaratRedFi800RProject\CaratRedUI\CaratRedFi-800RLibrary\obj\Release\CaratRedFi800RLibrary.csproj.CoreCompileInputs.cache
